@@ -1,0 +1,3 @@
+
+@echo off
+cmd /c D:\workspace\vpn_auto_login\env\Scripts\python.exe run.py <USERNAME> <PASSWD>
